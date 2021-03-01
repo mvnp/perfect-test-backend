@@ -32,5 +32,10 @@ centralizado os dados de produtos, consulta de vendas e um relatório simplifica
  # Como iniciar o desenvolvimento
  - Fork esse repositório na sua conta do GitHub.
  - Crie uma branch com o nome desafio
+
+ # Desafio
+ - Marcos Vinicius Nascimento Pereira
+ - mvnpereira@gmail.com
+ - (48) 99189-3313 
  
  Qualquer dúvida sobre o teste, fique a vontade para entrar em contato conosco.
